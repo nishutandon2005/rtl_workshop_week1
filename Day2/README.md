@@ -190,5 +190,12 @@ endmodule
    ```shell
    show
    ```
+   
+# CONTENT OF dff_asyncres_synchres.v
+<img width="1091" height="555" alt="image" src="https://github.com/user-attachments/assets/a1e2af99-e9c8-442a-b244-16c76f266a6a" />
+
+# CONTENT OF counter_opt.v
+<img width="1134" height="531" alt="image" src="https://github.com/user-attachments/assets/93c2d2c4-5fd2-48ac-8fae-123068c6ec4d" />
+
 
 
